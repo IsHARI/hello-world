@@ -1,3 +1,3 @@
 # hello-world
 
-Woah, this is magic!
+Lorem ipsum
